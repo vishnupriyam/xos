@@ -1,0 +1,16 @@
+DOUBTS OS LAB
+
+1. APL apl-spec 
+	difference between read and Read keywords?
+		read - input from the IO devices
+		Read (filedescriptor, variable) - read a word (Integer/String) from the file with descriptior to the variable
+2. fileDescriptor in apl-spec - what actually does that specify
+		filedescriptor - the index of the file in Per-process file table
+3. FAT structure 
+	- 3 to 7 blocks?
+	why -1,0,-1 in fat allocation table?
+4. XSM Documentation
+	-  Brief memory outline - OS Structures?
+5. What happens for the fork in the child process? What's the use of Fork? Where is it applicable?
+6. When do a (process) getppid generally fail? Can different processes access a file simultaneously?
+7. Does process resume after signal system call?
