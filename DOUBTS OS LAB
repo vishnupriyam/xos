@@ -14,3 +14,14 @@ DOUBTS OS LAB
 5. What happens for the fork in the child process? What's the use of Fork? Where is it applicable?
 6. When do a (process) getppid generally fail? Can different processes access a file simultaneously?
 7. Does process resume after signal system call?
+8. List of errors : and corresponding explanation where to find?
+9. if a timer is called when an interuppt is going on. what will happen?
+
+
+5-9-2014
+
+Modifications to be done for next class
+
+1. on open if no such file exists create one
+2. is it possible to call a function in another interupt from another interupt
+

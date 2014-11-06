@@ -1,4 +1,4 @@
-alias counter SO;
+alias counter S0;
 alias n S1;
 print "Enter the limit : ";
 read n;
